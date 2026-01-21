@@ -6,10 +6,11 @@
         <li>1.6</li>
     </supportedVersions>
     <author>Professor Rosen</author>
-    <description>A collection of absolutely deranged and immersion breaking backstories.  Only use if you want your story to be even more incoherent than normal.
+    <description>A collection of absolutely deranged and immersion breaking backstories.  The hope is to make these backstories even more incoherent than your wildest dreams.
     </description>
     <loadAfter>
-    <li>VanillaExpanded.VanillaTraitsExpanded</li>
-    <li>VanillaExpanded.VARME</li>
+        <li>VanillaExpanded.VanillaTraitsExpanded</li>
+        <li>VanillaExpanded.VARME</li>
+        <li>CETeam.CombatExtended</li>
     </loadAfter>
 </ModMetaData>

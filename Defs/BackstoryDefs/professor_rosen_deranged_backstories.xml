@@ -22,18 +22,28 @@ Both backstories have the same title:  chessmaster.
 
     <BackstoryDef>
         <defName>Rosen_DerangedMinecraft</defName>
-        <title>completely ordinary human</title>  
+        <title>cube obsessed miner</title>  
         <titleShort>minecrafter</titleShort> 
-        <slot>Adult</slot>
-        <description>[PAWN_nameDef] was born a completely normal human and was certainly not three sentient raccoons in a highly elaborate disguise.</description>  
+        <slot>Adulthood</slot>
+        <description>[PAWN_nameDef] had a particular talent for mining and crafting, but always in a distinctively blocky fashion.</description>  
         <skillGains>
-            <Animals>6</Animals>
-        </skillGains>  
+            <Construction>4</Construction>
+            <Mining>4</Mining>
+            <Crafting>4</Crafting>
+        </skillGains>
+        <forcedTraits>
+            <RosenMinecraftSteve MayRequire="CETeam.CombatExtended">0</RosenMinecraftSteve>
+        </forcedTraits>
+        <requiredWorkTags>
+            <li>ManualSkilled</li>
+            <li>ManualDumb</li>
+        </requiredWorkTags>
         <spawnCategories>
             <li>Offworld</li>
-            <li>ImperialRoyal</li>
         </spawnCategories>
     </BackstoryDef>
 
-
+    <!-- 
+    The archotech known as Horax is actually Hatsune Miku.  Or at least that's canon for some cultists.
+    -->
 </Defs>
