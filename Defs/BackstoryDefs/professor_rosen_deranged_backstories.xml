@@ -5,11 +5,26 @@
 Joke: litteral chess grandmaster and a person who manipulates people.
 Both backstories have the same title:  chessmaster.
 -->
- <BackstoryDef>
+    <BackstoryDef>
         <defName>Rosen_VeryHumanNotRaccoon</defName>
         <title>completely ordinary human</title>  
         <titleShort>human</titleShort> 
         <slot>Childhood</slot>
+        <description>[PAWN_nameDef] was born a completely normal human and was certainly not three sentient raccoons in a highly elaborate disguise.</description>  
+        <skillGains>
+            <Animals>6</Animals>
+        </skillGains>  
+        <spawnCategories>
+            <li>Offworld</li>
+            <li>ImperialRoyal</li>
+        </spawnCategories>
+    </BackstoryDef>
+
+    <BackstoryDef>
+        <defName>Rosen_DerangedMinecraft</defName>
+        <title>completely ordinary human</title>  
+        <titleShort>minecrafter</titleShort> 
+        <slot>Adult</slot>
         <description>[PAWN_nameDef] was born a completely normal human and was certainly not three sentient raccoons in a highly elaborate disguise.</description>  
         <skillGains>
             <Animals>6</Animals>

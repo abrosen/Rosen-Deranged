@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-
+    <TraitDef>
+        <defName>RosenMinecraftSteve</defName>
+        <commonality>0.0</commonality>
+        <forcedPassions>
+            <li>Construction</li>
+            <li>Mining</li>
+            <li>Crafting</li>
+        </forcedPassions>
+        <degreeDatas>
+            <li>
+                <label>Absurd Inventory</label>
+                <description>{PAWN_nameDef} is able to carry more than hnumanly possible due to being in the wrong game.</description>
+                <statOffsets>
+                    <CarryWeight>44500000</CarryWeight>
+                </statOffsets>
+            </li>
+        </degreeDatas>
+    </TraitDef>
 
 
     <!--
