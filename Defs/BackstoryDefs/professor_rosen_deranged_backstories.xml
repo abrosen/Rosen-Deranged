@@ -41,6 +41,29 @@ Both backstories have the same title:  chessmaster.
         <spawnCategories>
             <li>Offworld</li>
         </spawnCategories>
+        <bodyTypeMale>Male</bodyTypeMale>
+        <bodyTypeFemale>Female</bodyTypeFemale>
+    </BackstoryDef>
+
+
+    <BackstoryDef MayRequire="CETeam.CombatExtended">
+        <defName>Rosen_Saitama</defName>
+        <title>limitless human</title>  
+        <titleShort>limitless</titleShort> 
+        <slot>Adulthood</slot>
+        <description>[PAWN_nameDef] has shattered the normal limits of human strength and durability through an impossibly difficult daily training regimen of 100 push-ups, 100 sit-ups, 100 squats, and a 10 km run.</description>  
+        <skillGains>
+            <Melee>10</Melee>
+        </skillGains>
+        <forcedTraits>
+            <RosenLimitless MayRequire="CETeam.CombatExtended">0</RosenLimitless>
+            <VTE_AbsentMinded MayRequire="VanillaExpanded.VanillaTraitsExpanded">0</VTE_AbsentMinded>
+        </forcedTraits>
+        <spawnCategories>
+            <li>Offworld</li>
+        </spawnCategories>
+        <bodyTypeMale>Male</bodyTypeMale>
+        <bodyTypeFemale>Female</bodyTypeFemale>
     </BackstoryDef>
 
     <!-- 

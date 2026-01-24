@@ -10,11 +10,31 @@
         </forcedPassions>
         <degreeDatas>
             <li>
-                <label>Absurd Inventory</label>
-                <description>{PAWN_nameDef} is able to carry more than hnumanly possible due to being in the wrong game.</description>
+                <label>absurd inventory</label>
+                <description>{PAWN_nameDef} is able to carry more than humanly possible due to being in the wrong game.</description>
                 <statOffsets>
                     <CarryWeight>44500000</CarryWeight>
                 </statOffsets>
+            </li>
+        </degreeDatas>
+    </TraitDef>
+
+    <TraitDef MayRequire="CETeam.CombatExtended">
+        <defName>RosenLimitless</defName>
+        <commonality>0.0</commonality>
+        <forcedPassions>
+            <li>Melee</li>
+        </forcedPassions>
+        <degreeDatas>
+            <li>
+                <label>limitless</label>
+                <description>{PAWN_nameDef} has shattered the normal limits of human strength and durability.</description>
+                <statOffsets>
+                    <UnarmedDamage>1000000</UnarmedDamage>
+                </statOffsets>
+                <statFactors>
+                  <IncomingDamageFactor>0.001</IncomingDamageFactor>
+                </statFactors>
             </li>
         </degreeDatas>
     </TraitDef>

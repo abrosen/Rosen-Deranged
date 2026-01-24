@@ -1,12 +1,11 @@
 <ModMetaData>
-    <name>Professor Rosen's Absolutly Deranged Backstories</name>
+    <name>Professor Rosen's Absolutely Deranged Backstories</name>
     <packageId>professor.rosen.deranged</packageId>
     <supportedVersions>
-        <li>1.5</li>
         <li>1.6</li>
     </supportedVersions>
     <author>Professor Rosen</author>
-    <description>A collection of absolutely deranged and immersion breaking backstories.  The hope is to make these backstories even more incoherent than your wildest dreams.
+    <description>A collection of absolutely deranged and immersion breaking backstories.
     </description>
     <loadAfter>
         <li>VanillaExpanded.VanillaTraitsExpanded</li>
