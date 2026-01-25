@@ -1,6 +1,5 @@
 # Professor Rosen's Absolutely Deranged Backstories
-Absolutely deranged Rimworld backstories
-
+![Preview Image](About/Preview.png "Preview")
 ## What?
 
 This is a small collection of backstories and accompanying patches and traits that are unsuited for my primary backstory mod.
