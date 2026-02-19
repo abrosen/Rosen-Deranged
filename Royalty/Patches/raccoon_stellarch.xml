@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+
+    <Operation Class="PatchOperationConditional">
+        <xpath>/Defs/PawnKindDef[defName="Empire_Royal_Stellarch"]/backstoryFiltersOverride</xpath>
+        <nomatch Class="PatchOperationAdd">
+            <xpath>/Defs/PawnKindDef[defName="Empire_Royal_Stellarch"]</xpath>
+            <value>
+                <backstoryFiltersOverride />
+            </value> 
+        </nomatch>
+    </Operation>
+
+    <Operation Class="PatchOperationConditional">
+        <xpath>/Defs/PawnKindDef[defName="Empire_Royal_Stellarch"]/backstoryFiltersOverride/categories</xpath>
+        <nomatch Class="PatchOperationAdd">
+            <xpath>/Defs/PawnKindDef[defName="Empire_Royal_Stellarch"]/backstoryFiltersOverride</xpath>
+            <value>
+                <li>
+                    <categories>
+                        <li>YesVeryAmHuman</li>
+                    </categories>
+                </li>
+            </value> 
+        </nomatch>
+    </Operation>
+    <!-- 
+    <Operation Class="PatchOperationAdd">
+        <xpath>/Defs/PawnKindDef[defName="Empire_Royal_Stellarch"]/backstoryFiltersOverride/categories</xpath>
+        <value>
+            <li>YesVeryAmHuman</li>
+        </value>
+    </Operation>
+    -->
+
+</Patch>

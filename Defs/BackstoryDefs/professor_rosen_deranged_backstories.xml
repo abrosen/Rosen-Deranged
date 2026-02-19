@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
-<!--
-Joke: litteral chess grandmaster and a person who manipulates people.
-Both backstories have the same title:  chessmaster.
--->
     <BackstoryDef>
         <defName>Rosen_VeryHumanNotRaccoon</defName>
         <title>completely ordinary human</title>  
@@ -16,8 +12,39 @@ Both backstories have the same title:  chessmaster.
         </skillGains>  
         <spawnCategories>
             <li>Offworld</li>
-            <li>ImperialRoyal</li>
         </spawnCategories>
+    </BackstoryDef>
+
+
+    <BackstoryDef>
+        <defName>Rosen_YesVeryAmHumanStellarch</defName>
+        <title>imperial heir</title>  
+        <titleShort>heir</titleShort> 
+        <slot>Childhood</slot>
+        <description>The heir to a vast empire, [PAWN_nameDef] nearly caused a succession crisis when [PAWN_pronoun] disappeared for almost a year.  When [PAWN_pronoun] returned, those closest to [PAWN_objective] were certain something was different, but they couldn't quite put their finger on it.</description>  
+        <skillGains>
+            <Animals>6</Animals>
+        </skillGains>  
+        <spawnCategories>
+            <li>YesVeryAmHuman</li>
+        </spawnCategories>
+    </BackstoryDef>
+
+
+    <BackstoryDef>
+        <defName>Rosen_YesVeryAmHumanRaccoon</defName>
+        <title>ordinary human</title>  
+        <titleShort>human</titleShort> 
+        <slot>Adulthood</slot>
+        <description>[PAWN_nameDef] was born a completely normal human and was certainly not three sentient raccoons in a highly elaborate disguise.  And they certainly weren't in too deep to stop now.</description>  
+        <skillGains>
+            <Animals>6</Animals>
+        </skillGains>  
+        <spawnCategories>
+            <li>YesVeryAmHuman</li>
+        </spawnCategories>
+        <bodyTypeMale>Male</bodyTypeMale>
+        <bodyTypeFemale>Female</bodyTypeFemale>
     </BackstoryDef>
 
     <BackstoryDef>
@@ -66,8 +93,14 @@ Both backstories have the same title:  chessmaster.
         <bodyTypeFemale>Female</bodyTypeFemale>
     </BackstoryDef>
 
+
+
+
     <!-- 
-    TODO: Spread out the following backstories among multiple cultist backstories.
+    TODO: 
+    Glitterhoof
+    Sir Bearington
+    Spread out the following backstories among multiple cultist backstories.
     The archotech known as Horax is actually the high priest of another entity, ala Cthulhu. 
     That entity is "She Of the Cerulean Hair" and "Her of the Sibulant Voice."
     Horax went insane when he learned this entity was actually Hatsune Miku, a vocaloid program.
