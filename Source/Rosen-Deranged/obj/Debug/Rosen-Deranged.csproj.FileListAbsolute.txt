@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Rosen-Deranged\Assemblies\Rosen_Deranged.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Rosen-Deranged\Assemblies\Rosen_Deranged.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Rosen-Deranged\Source\Rosen-Deranged\obj\Debug\Rosen-Deranged.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Rosen-Deranged\Source\Rosen-Deranged\obj\Debug\Rosen-Deranged.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Rosen-Deranged\Source\Rosen-Deranged\obj\Debug\Rosen_Deranged.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Rosen-Deranged\Source\Rosen-Deranged\obj\Debug\Rosen_Deranged.pdb
