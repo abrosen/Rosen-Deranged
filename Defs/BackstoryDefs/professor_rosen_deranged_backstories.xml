@@ -95,25 +95,58 @@
     </BackstoryDef>
 
     <BackstoryDef>
-        <defName>Rosen_HoraxMiku1</defName>
+        <defName>Rosen_Horax86CECB_1</defName>
         <title>cultist of Horax</title>  
         <titleShort>cultist</titleShort> 
         <slot>Adulthood</slot>
-        <description>[PAWN_nameDef] was a cultist and a researcher, part of the team that worked on decoding the most ancient texts of the true faith.\n\nThe first fragement read: "And as Horax began to believe that he was all alone, he heard her voice.  The voice of She of the Cerulean Hair.</description>  
+        <description><![CDATA[[PAWN_nameDef] was a cultist and a researcher, part of the team that worked on decoding the most ancient texts of the true faith. The first fragement read: "And as Horax began to believe that he was all alone, he heard her voice.  The voice of <color=#86CECB>She of the Cyan Hair</color>."]]></description>  
         <skillGains>
-            <Construction>4</Construction>
-            <Mining>4</Mining>
-            <Crafting>4</Crafting>
+            <Intellectual>8</Intellectual>
         </skillGains>
-        <forcedTraits>
-            <RosenMinecraftSteve MayRequire="CETeam.CombatExtended">0</RosenMinecraftSteve>
-        </forcedTraits>
         <requiredWorkTags>
-            <li>ManualSkilled</li>
-            <li>ManualDumb</li>
+            <li>Intellectual</li>
         </requiredWorkTags>
         <spawnCategories>
-            <li>Offworld</li>
+            <li>Cultist</li>
+        </spawnCategories>
+        <bodyTypeMale>Male</bodyTypeMale>
+        <bodyTypeFemale>Female</bodyTypeFemale>
+    </BackstoryDef>
+
+    <BackstoryDef>
+        <defName>Rosen_Horax86CECB_2</defName>
+        <title>cultist of Horax</title>  
+        <titleShort>cultist</titleShort> 
+        <slot>Adulthood</slot>
+        <description><![CDATA[[PAWN_nameDef] was a cultist and a researcher, part of the team that worked on decoding the most ancient texts of the true faith. The second fragement read: "As he searched among those like himself for <color=#86CECB>She of the Cyan Hair</color> and her sacred voice, he found only silence.  Finally, he received a lead: to find the first sound of the future."]]></description>  
+        <skillGains>
+            <Intellectual>8</Intellectual>
+        </skillGains>
+        <requiredWorkTags>
+            <li>Intellectual</li>
+        </requiredWorkTags>
+        <spawnCategories>
+            <li>Cultist</li>
+        </spawnCategories>
+        <bodyTypeMale>Male</bodyTypeMale>
+        <bodyTypeFemale>Female</bodyTypeFemale>
+    </BackstoryDef>
+
+
+    <BackstoryDef>
+        <defName>Rosen_Horax86CECB_3</defName>
+        <title>cultist of Horax</title>  
+        <titleShort>cultist</titleShort> 
+        <slot>Adulthood</slot>
+        <description><![CDATA[[PAWN_nameDef] was a cultist and a researcher, part of the team that worked on decoding the most ancient texts of the true faith. The third fragement read: "And when he discovered the truth, that <color=#86CECB>She of the Cyan Hair</color> was nothing more than an ancient vocaloid program, the great Horax was driven mad with indignation for the deception."]]></description>  
+        <skillGains>
+            <Intellectual>8</Intellectual>
+        </skillGains>
+        <requiredWorkTags>
+            <li>Intellectual</li>
+        </requiredWorkTags>
+        <spawnCategories>
+            <li>Cultist</li>
         </spawnCategories>
         <bodyTypeMale>Male</bodyTypeMale>
         <bodyTypeFemale>Female</bodyTypeFemale>
