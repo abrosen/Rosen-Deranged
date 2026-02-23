@@ -6,12 +6,20 @@ This is a small collection of backstories and accompanying patches and traits th
 It will grow over time as I have more stupid ideas or people suggest additions.
 Backstories suited for this mod, but not the other, are ones that:
 - Break immersion
-- Overpowered
-- Absurd
-- A joke that exists only for the sake of being a joke.
+- Are Overpowered
+- Are Absurd
+
+## Examples?
+
+- The Stellarch is now three raccoons in an elaborate disguise.
+- A minecraft player in the wrong game.
+- A cleaner.
 
 ## Why?
-Because I love the idea of the High Stellarch being three raccoons in a trenchcoat who have gotten too deep into the royal court to stop now.
+Why not?
 
 ## Dependencies?
-None, but the backstories will use Combat Extended and Vanilla Traits Expanded if you have them. 
+None.  Not even Harmony.  But the backstories will use Combat Extended and Vanilla Traits Expanded if you have them. 
+
+## Compatibility?
+Should be compatible with everything, unless some other mod out there is messing with the spawn pool for the Stellarch.

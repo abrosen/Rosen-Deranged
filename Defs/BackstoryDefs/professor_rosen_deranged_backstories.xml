@@ -11,7 +11,7 @@
             <Animals>6</Animals>
         </skillGains>  
         <spawnCategories>
-            <li>Offworld</li>
+            <li>TODO</li>
         </spawnCategories>
     </BackstoryDef>
 
@@ -21,7 +21,7 @@
         <title>imperial heir</title>  
         <titleShort>heir</titleShort> 
         <slot>Childhood</slot>
-        <description>The heir to a vast empire, [PAWN_nameDef] nearly caused a succession crisis when [PAWN_pronoun] disappeared for almost a year.  When [PAWN_pronoun] returned, those closest to [PAWN_objective] were certain something was different, but they couldn't quite put their finger on it.</description>  
+        <description>The heir to a vast empire, [PAWN_nameDef] nearly caused a succession crisis when [PAWN_pronoun] disappeared for almost a year, as did a number of sentience catalysts.  When [PAWN_pronoun] returned, those closest to [PAWN_objective] were certain something was different, but they couldn't quite put their finger on it.</description>  
         <skillGains>
             <Animals>6</Animals>
         </skillGains>  
@@ -36,9 +36,10 @@
         <title>ordinary human</title>  
         <titleShort>human</titleShort> 
         <slot>Adulthood</slot>
-        <description>[PAWN_nameDef] was born a completely normal human and was certainly not three sentient raccoons in a highly elaborate disguise.  And they certainly weren't in too deep to stop now.</description>  
+        <description>The former [PAWN_nameDef] made many friends on [PAWN_possessive] sojourn. [PAWN_pronoun] decided to stay and live in the wilderness, while [PAWN_possessive] three friends took [PAWN_possessive] place as [PAWN_nameDef].</description>  
         <skillGains>
             <Animals>6</Animals>
+            <Social>6</Social>
         </skillGains>  
         <spawnCategories>
             <li>YesVeryAmHuman</li>
@@ -93,6 +94,30 @@
         <bodyTypeFemale>Female</bodyTypeFemale>
     </BackstoryDef>
 
+    <BackstoryDef>
+        <defName>Rosen_HoraxMiku1</defName>
+        <title>cultist of Horax</title>  
+        <titleShort>cultist</titleShort> 
+        <slot>Adulthood</slot>
+        <description>[PAWN_nameDef] was a cultist and a researcher, part of the team that worked on decoding the most ancient texts of the true faith.\n\nThe first fragement read: "And as Horax began to believe that he was all alone, he heard her voice.  The voice of She of the Cerulean Hair.</description>  
+        <skillGains>
+            <Construction>4</Construction>
+            <Mining>4</Mining>
+            <Crafting>4</Crafting>
+        </skillGains>
+        <forcedTraits>
+            <RosenMinecraftSteve MayRequire="CETeam.CombatExtended">0</RosenMinecraftSteve>
+        </forcedTraits>
+        <requiredWorkTags>
+            <li>ManualSkilled</li>
+            <li>ManualDumb</li>
+        </requiredWorkTags>
+        <spawnCategories>
+            <li>Offworld</li>
+        </spawnCategories>
+        <bodyTypeMale>Male</bodyTypeMale>
+        <bodyTypeFemale>Female</bodyTypeFemale>
+    </BackstoryDef>
 
 
 

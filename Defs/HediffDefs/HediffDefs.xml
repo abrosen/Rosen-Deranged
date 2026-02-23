@@ -6,6 +6,10 @@
         <label>Procyon Lotor</label>
         <labelNoun>a Procyon Lotor</labelNoun>
         <description>Very good at washing, breaking, and entering.</description>
+        <hediffClass>Rosen_Deranged.Hediff_ProcyonLotor</hediffClass>
+        <everCurableByItem>false</everCurableByItem>
+        <isBad>false</isBad>
+
     </HediffDef>
 
 </Defs>
