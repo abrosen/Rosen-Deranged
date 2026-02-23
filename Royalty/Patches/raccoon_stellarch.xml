@@ -24,6 +24,20 @@
             </value> 
         </nomatch>
     </Operation>
+
+    <Operation Class="PatchOperationConditional">
+        <xpath>/Defs/PawnKindDef[defName="Empire_Royal_Stellarch"]/startingHediffs</xpath>
+        <nomatch Class="PatchOperationAdd">
+            <xpath>/Defs/PawnKindDef[defName="Empire_Royal_Stellarch"]</xpath>
+            <value>
+                <startingHediffs>
+                    <li>
+                        <def>ProcyonLotor</def>
+                    </li>
+                </startingHediffs>
+            </value> 
+        </nomatch>
+    </Operation>
     <!-- 
     <Operation Class="PatchOperationAdd">
         <xpath>/Defs/PawnKindDef[defName="Empire_Royal_Stellarch"]/backstoryFiltersOverride/categories</xpath>

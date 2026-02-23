@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+    <HediffDef>
+        <defName>ProcyonLotor</defName>
+        <label>Procyon Lotor</label>
+        <labelNoun>a Procyon Lotor</labelNoun>
+        <description>Very good at washing, breaking, and entering.</description>
+    </HediffDef>
+
+</Defs>

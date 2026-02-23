@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eea44d81-0fee-4efd-a8d3-377446d19a8e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Royalty/Patches/raccoon_stellarch.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Royalty/Patches/raccoon_stellarch.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assemblies/Rosen_Deranged.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assemblies/Rosen_Deranged.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assemblies/Rosen_Deranged.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assemblies/Rosen_Deranged.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Rosen-Deranged/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Rosen-Deranged/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Rosen-Deranged.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Rosen-Deranged.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Rosen_Deranged.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Rosen_Deranged.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Rosen_Deranged.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Rosen_Deranged.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,29 +20,30 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="39wFNaRemYrs73uZyAV7LIqbQkN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="eea44d81-0fee-4efd-a8d3-377446d19a8e" name="Changes" comment="" />
@@ -46,6 +52,10 @@
       <option name="presentableId" value="Default" />
       <updated>1771599189438</updated>
       <workItem from="1771599191579" duration="1504000" />
+      <workItem from="1771806293004" duration="1426000" />
+      <workItem from="1771808250877" duration="46000" />
+      <workItem from="1771808430772" duration="715000" />
+      <workItem from="1771821161454" duration="1074000" />
     </task>
     <servers />
   </component>
@@ -76,5 +86,9 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
