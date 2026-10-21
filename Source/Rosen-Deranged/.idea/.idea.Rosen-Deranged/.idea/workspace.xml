@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eea44d81-0fee-4efd-a8d3-377446d19a8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Hediff_ProcyonLotor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assemblies/Rosen_Deranged.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assemblies/Rosen_Deranged.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assemblies/Rosen_Deranged.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assemblies/Rosen_Deranged.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Defs/HediffDefs/HediffDefs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Defs/HediffDefs/HediffDefs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Rosen-Deranged/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Rosen-Deranged/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hello.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rosen-Deranged.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Rosen-Deranged.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rosen-Deranged.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/Rosen-Deranged.sln.DotSettings.user" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Rosen-Deranged.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Rosen-Deranged.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Rosen-Deranged.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Rosen-Deranged.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Rosen_Deranged.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Rosen_Deranged.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Rosen_Deranged.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Rosen_Deranged.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +23,7 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/46372f5dadbf4af8939e608076251180f09200/94/6a575bda/Hediff.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/46372f5dadbf4af8939e608076251180f09200/f1/be01040e/Name.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -70,12 +61,14 @@
       <workItem from="1771808430772" duration="715000" />
       <workItem from="1771821161454" duration="1074000" />
       <workItem from="1771863772054" duration="9867000" />
+      <workItem from="1784821702969" duration="2340000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityProjectDiscoverer">
     <option name="hasUnityReference" value="true" />
